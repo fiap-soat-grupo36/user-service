@@ -5,7 +5,7 @@ Arquitetura de microserviços para sistema de gestão de oficina mecânica.
 
 ## 📋 Arquitetura
 
-Serviço para criação de usuário, geração e validação de tokens JWT, e controle de acesso.
+Serviço para criação de usuário, geração, validação de tokens JWT, e controle de acesso.
 
 ---
 
